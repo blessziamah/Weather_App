@@ -3,7 +3,7 @@ import requests
 import json
 
 root = Tk()
-root.title = "Ziamah"
+root.title = "MyWeather"
 root.geometry("550x100")
 
 
